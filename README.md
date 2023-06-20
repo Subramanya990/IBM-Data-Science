@@ -5,8 +5,8 @@ The Capstone is the 10th (final) course in IBM Data Science Professional Certifi
 2) Does the rate of successful landings increase over the years?
 3) What is the best algorithm that can be used for binary classification in this case?
 # Methodology
-## 1) Data collection methodology
-## 2) Performed data wrangling
-## 3) Performed exploratory data analysis (EDA) using visualization and SQL
-## 4) Performed interactive visual analytics using Folium and Plotly Dash
-## 5) Performed predictive analysis using classification models
+1) Data collection
+2) Data wrangling
+3) Exploratory data analysis (EDA) using visualization and SQL
+4) Interactive visual analytics using Folium and Plotly Dash
+5) Predictive analysis using classification models
